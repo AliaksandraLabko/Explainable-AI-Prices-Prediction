@@ -4,6 +4,8 @@ This repository is used for the ML Regression project on Explainable AI in Predi
 
 # ML Regression project
 
+__Data used is from https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset__
+
 __Used Car Price Prediction Dataset is a comprehensive collection of automotive information extracted from the popular automotive marketplace website, https://www.cars.com. This dataset comprises 4,009 data points, each representing a unique vehicle listing, and includes nine distinct features providing valuable insights into the world of automobiles.__
 
 ### Variables definition:
