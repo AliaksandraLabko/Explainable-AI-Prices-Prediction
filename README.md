@@ -49,20 +49,26 @@ Evaluation: Assessing model performance using Mean Absolute Error (MAE), Root Me
 # Findings 
 
 # Repository structure
-* Code/
-Contains the main Jupyter Notebook used for data preprocessing, feature engineering, model training, evaluation, and explainable AI analysis.
-- PricesPrediction.ipynb
-Main notebook implementing the used car price prediction workflow, including:
-- Data Exploration
+
+#### Code/
+Contains the main Jupyter Notebook used:
+
+##### PricesPrediction.ipynb
+Main notebook implementing the complete used car price prediction workflow, including:
+- Data exploration 
 - Data cleaning and feature engineering
-- Model training
+- Modeling
 - Performance evaluation
-- Explainable AI
-* Data/
-Stores the dataset used in the project.
-- used_cars_.csv
-Dataset containing used car listings and features such as brand, model, mileage, fuel type, engine details, and price.
-* .gitignore
-Specifies files and folders that should be excluded from version control.
-* README.md
-Provides project overview, setup instructions, repository structure, and usage details.
+- Explainable AI (XAI) analysis
+
+
+#### Data/
+Stores the dataset used throughout the project:
+##### used_cars_.csv
+
+
+#### .gitignore
+Defines files and directories that should be excluded from Git version control
+
+#### README.md
+Provides information about the project
