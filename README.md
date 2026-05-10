@@ -19,3 +19,11 @@ __Used Car Price Prediction Dataset is a comprehensive collection of automotive 
 * Accident History: Discover whether a vehicle has a prior history of accidents or damage, crucial for informed decision-making.
 * Clean Title: Evaluate the availability of a clean title, which can impact the vehicle's resale value and legal status.
 * Price: Access the listed prices for each vehicle, aiding in price comparison and budgeting.
+
+# Motivation
+
+# Problem statement 
+
+# Findings 
+
+# Repository structure
